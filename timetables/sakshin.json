@@ -1,0 +1,244 @@
+[
+	[
+		{
+			"title": "quantitative skills practice II",
+			"venue": "MB211",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Probability and statistics",
+			"venue": "MB211",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Kinematics and Dynamics of Machines",
+			"venue": "MB227",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Metal Casting and Welding",
+			"venue": "MB219",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Kinematics and Dynamics of Machines",
+			"venue": "MB227",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Metal Casting and Welding",
+			"venue": "MB219",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Fluid Mechanics and Machine",
+			"venue": "MB218",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Engineering Optimization",
+			"venue": "MB225",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Engineering Optimization",
+			"venue": "MB225",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "quantitative skills practice II",
+			"venue": "MB211",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Probability and statistics Lab",
+			"venue": "MB109",
+			"timings": [
+				14,
+				0,
+				15,
+				40
+			]
+		}
+	],
+	[
+		{
+			"title": "Probability and statistics",
+			"venue": "MB211",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Kinematics and Dynamics of Machines",
+			"venue": "MB227",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Metal Casting and Welding",
+			"venue": "MB219",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Fluid Mechanics and Machine",
+			"venue": "MB218",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Engineering Optimization",
+			"venue": "MB225",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		},
+		{
+			"title": "Kinematics and Dynamics of Machines Lab",
+			"venue": "ALM 407A",
+			"timings": [
+				14,
+				0,
+				15,
+				40
+			]
+		},
+		{
+			"title": "Fluid Mechanics and Machine Lab",
+			"venue": "GDN131",
+			"timings": [
+				15,
+				51,
+				17,
+				30
+			]
+		}
+	],
+	[
+		{
+			"title": "Fluid Mechanics and Machine",
+			"venue": "MB218",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Engineering Optimization",
+			"venue": "MB225",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "quantitative skills practice II",
+			"venue": "MB211",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Probability and statistics",
+			"venue": "MB211",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		},
+		{
+			"title": "Metal Casting and Welding Lab",
+			"venue": "GDNG26",
+			"timings": [
+				15,
+				51,
+				17,
+				30
+			]
+		}
+	],
+	[],
+	[]
+]
