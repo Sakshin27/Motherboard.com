@@ -96,7 +96,7 @@ i {
 }
 
 .currentBox {
-  height: 96px;
+  height: 125px;
   display: grid;
   border: 3px solid var(--accent);
   grid-template-columns: 25% 75%;
