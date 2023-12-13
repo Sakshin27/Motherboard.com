@@ -37,7 +37,12 @@ COURSE_TITLES = {
     "BECE204": "Microprocessor and microcontrollers",
     "BMAT202": "Probability and statistics",
     "BSTS102": "quantitative skills practice II",
-    
+    "BMEE204": "Fluid Mechanics and Machine",
+    "BMEE207": "Kinematics and Dynamics of Machines", 
+    "BMEE215": "Engineering Optimization", 
+    "BMEE302": "Metal Casting and Welding", 
+    "BSSC101": "Essence of Traditional Knowledge", 
+
 }
 
 

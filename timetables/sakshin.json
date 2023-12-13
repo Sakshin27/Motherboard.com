@@ -21,7 +21,7 @@
 			]
 		},
 		{
-			"title": "BMEE207",
+			"title": "Kinematics and Dynamics of Machines",
 			"venue": "MB227",
 			"timings": [
 				11,
@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"title": "BMEE302",
+			"title": "Metal Casting and Welding",
 			"venue": "MB219",
 			"timings": [
 				12,
@@ -43,7 +43,7 @@
 	],
 	[
 		{
-			"title": "BMEE207",
+			"title": "Kinematics and Dynamics of Machines",
 			"venue": "MB227",
 			"timings": [
 				8,
@@ -53,7 +53,7 @@
 			]
 		},
 		{
-			"title": "BMEE302",
+			"title": "Metal Casting and Welding",
 			"venue": "MB219",
 			"timings": [
 				9,
@@ -63,7 +63,7 @@
 			]
 		},
 		{
-			"title": "BMEE204",
+			"title": "Fluid Mechanics and Machine",
 			"venue": "MB218",
 			"timings": [
 				10,
@@ -73,7 +73,7 @@
 			]
 		},
 		{
-			"title": "BMEE215",
+			"title": "Engineering Optimization",
 			"venue": "MB225",
 			"timings": [
 				11,
@@ -85,7 +85,7 @@
 	],
 	[
 		{
-			"title": "BMEE215",
+			"title": "Engineering Optimization",
 			"venue": "MB225",
 			"timings": [
 				8,
@@ -127,7 +127,7 @@
 			]
 		},
 		{
-			"title": "BMEE207",
+			"title": "Kinematics and Dynamics of Machines",
 			"venue": "MB227",
 			"timings": [
 				9,
@@ -137,7 +137,7 @@
 			]
 		},
 		{
-			"title": "BMEE302",
+			"title": "Metal Casting and Welding",
 			"venue": "MB219",
 			"timings": [
 				10,
@@ -147,7 +147,7 @@
 			]
 		},
 		{
-			"title": "BMEE204",
+			"title": "Fluid Mechanics and Machine",
 			"venue": "MB218",
 			"timings": [
 				11,
@@ -157,7 +157,7 @@
 			]
 		},
 		{
-			"title": "BMEE215",
+			"title": "Engineering Optimization",
 			"venue": "MB225",
 			"timings": [
 				12,
@@ -167,7 +167,7 @@
 			]
 		},
 		{
-			"title": "BMEE207 Lab",
+			"title": "Kinematics and Dynamics of Machines Lab",
 			"venue": "ALM 407A",
 			"timings": [
 				14,
@@ -177,7 +177,7 @@
 			]
 		},
 		{
-			"title": "BMEE204 Lab",
+			"title": "Fluid Mechanics and Machine Lab",
 			"venue": "GDN131",
 			"timings": [
 				15,
@@ -189,7 +189,7 @@
 	],
 	[
 		{
-			"title": "BMEE204",
+			"title": "Fluid Mechanics and Machine",
 			"venue": "MB218",
 			"timings": [
 				8,
@@ -199,7 +199,7 @@
 			]
 		},
 		{
-			"title": "BMEE215",
+			"title": "Engineering Optimization",
 			"venue": "MB225",
 			"timings": [
 				9,
@@ -229,7 +229,7 @@
 			]
 		},
 		{
-			"title": "BMEE302 Lab",
+			"title": "Metal Casting and Welding Lab",
 			"venue": "GDNG26",
 			"timings": [
 				15,
