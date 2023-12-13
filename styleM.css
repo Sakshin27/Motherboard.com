@@ -50,7 +50,8 @@
 
 body {
   background-attachment: fixed;
-  background: url("./images/background.jpeg");
+  background-image: url("./images/background.jpeg");
+  background-size: cover;
 }
 
 i {
@@ -66,7 +67,7 @@ i {
 }
 
 .appbar {
-  background: url("./images/titlebg.jpg");
+  background-color: black;
   background-size: auto;
   height: 50px;
   width: 100%;
