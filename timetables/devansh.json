@@ -11,12 +11,32 @@
 			]
 		},
 		{
+			"title": "Design and analysis algorithms",
+			"venue": "SJT308",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
 			"title": "Computer architecture and organisation",
 			"venue": "PRP214",
 			"timings": [
 				16,
 				0,
 				16,
+				50
+			]
+		},
+		{
+			"title": "BHUM220",
+			"venue": "SJT513",
+			"timings": [
+				17,
+				0,
+				17,
 				50
 			]
 		},
@@ -32,6 +52,26 @@
 		}
 	],
 	[
+		{
+			"title": "Design and analysis algorithms Lab",
+			"venue": "SJT122",
+			"timings": [
+				9,
+				51,
+				11,
+				30
+			]
+		},
+		{
+			"title": "BHUM220",
+			"venue": "SJT513",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
 		{
 			"title": "Probability and statistics",
 			"venue": "SJT301",
@@ -95,6 +135,16 @@
 			]
 		},
 		{
+			"title": "Design and analysis algorithms",
+			"venue": "SJT308",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
 			"title": "Computer architecture and organisation",
 			"venue": "PRP214",
 			"timings": [
@@ -123,6 +173,16 @@
 				14,
 				0,
 				14,
+				50
+			]
+		},
+		{
+			"title": "BHUM220",
+			"venue": "SJT513",
+			"timings": [
+				15,
+				0,
+				15,
 				50
 			]
 		},
@@ -175,6 +235,16 @@
 				15,
 				0,
 				15,
+				50
+			]
+		},
+		{
+			"title": "Design and analysis algorithms",
+			"venue": "SJT308",
+			"timings": [
+				16,
+				0,
+				16,
 				50
 			]
 		}
