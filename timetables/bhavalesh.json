@@ -1,0 +1,264 @@
+[
+	[
+		{
+			"title": "BMT102",
+			"venue": "MGB101",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "BMT300",
+			"venue": "MGB 401",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB304",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "STS201",
+			"venue": "PRP223",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		},
+		{
+			"title": "BMT201",
+			"venue": "MGB101",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BMT200",
+			"venue": "MGB304",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "STS201",
+			"venue": "PRP223",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "BMT101",
+			"venue": "MGB101",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "ENG191",
+			"venue": "MGB101",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB 401",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB304",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "HUM103",
+			"venue": "SJT502",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "BMT102",
+			"venue": "MGB101",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB304",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BMT201",
+			"venue": "MGB101",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BMT300",
+			"venue": "MGB 401",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB304",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "STS201",
+			"venue": "PRP223",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "BMT101",
+			"venue": "MGB101",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "ENG191 Lab",
+			"venue": "SJT721",
+			"timings": [
+				14,
+				0,
+				15,
+				40
+			]
+		}
+	],
+	[
+		{
+			"title": "BMT101",
+			"venue": "MGB101",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "HUM103",
+			"venue": "SJT502",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB 401",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BMT200",
+			"venue": "MGB304",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "BMT201",
+			"venue": "MGB101",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		}
+	],
+	[],
+	[]
+]
