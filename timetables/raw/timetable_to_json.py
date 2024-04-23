@@ -45,11 +45,22 @@ COURSE_TITLES = {
     "BECE206": "Analog Circuits Theory",
     "BECE207": "Random processes",
     "BECE301": "Digital signal processing theory",
-    "BEEE208":"Analog Electronics",
-    "BEEE211":"VLSI Design",
-    "BEEE215":"DC Machines and Transformers",
-    "BEEE301":"Power Electronics",
-    "BHUM220":"Financial Institutions and Markets"
+    "BEEE208": "Analog Electronics",
+    "BEEE211": "VLSI Design",
+    "BEEE215": "DC Machines and Transformers",
+    "BEEE301": "Power Electronics",
+    "BHUM220": "Financial Institutions and Markets",
+    "BMT1011": "Business Law",
+    "BMT1022": "Total Quality Management",
+    "BMT2003": "Organizational Change and Development",
+    "BMT2005": "Sales Management",
+    "BMT2006": "Services Marketing",
+    "BMT2019": "Performance Management",
+    "BMT3002": "Entrepreneurship",
+    "ENG1913": "Effective Communication Skills",
+    "HUM1032": "Ethics and Values",
+    "STS2012": "Aptitude and Reasoning Skills",
+    "MOC2437": "Conservation Economics",
 
 }
 
