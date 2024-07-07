@@ -1,230 +1,220 @@
 [
 	[
 		{
-			"title": "quantitative skills practice II",
-			"venue": "TT303",
+			"title": "BECE306 Lab",
+			"venue": "TT135",
 			"timings": [
 				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics",
-			"venue": "TT303",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Microprocessor and microcontrollers",
-			"venue": "TT531A",
-			"timings": [
+				51,
 				11,
+				30
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "GDN128",
+			"timings": [
+				15,
 				0,
-				11,
+				15,
 				50
 			]
 		},
 		{
-			"title": "Analog Circuits Theory",
-			"venue": "TT530",
+			"title": "BECE303",
+			"venue": "TT301",
 			"timings": [
-				12,
+				16,
 				0,
-				12,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BECE355",
+			"venue": "TT531",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		},
+		{
+			"title": "BECE302",
+			"venue": "TT523",
+			"timings": [
+				18,
+				0,
+				18,
 				50
 			]
 		}
 	],
 	[
 		{
-			"title": "Microprocessor and microcontrollers",
-			"venue": "TT531A",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Analog Circuits Theory",
-			"venue": "TT530",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Random processes",
-			"venue": "TT301",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Digital signal processing theory",
-			"venue": "TT304",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Analog Circuits Theory Lab",
-			"venue": "TT246",
+			"title": "BECE355",
+			"venue": "TT531",
 			"timings": [
 				14,
 				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BECE302",
+			"venue": "TT523",
+			"timings": [
 				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "BECE305",
+			"venue": "TT301",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BECE306",
+			"venue": "TT301",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BECE305 Lab",
+			"venue": "TT145",
+			"timings": [
+				9,
+				51,
+				11,
+				30
+			]
+		},
+		{
+			"title": "BECE306",
+			"venue": "TT301",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "GDN128",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BECE303",
+			"venue": "TT301",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BECE303",
+			"venue": "TT301",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BECE355",
+			"venue": "TT531",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "BECE302",
+			"venue": "TT523",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BECE305",
+			"venue": "TT301",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BECE303 Lab",
+			"venue": "TT237A",
+			"timings": [
+				8,
+				0,
+				9,
 				40
 			]
-		}
-	],
-	[
-		{
-			"title": "Digital signal processing theory",
-			"venue": "TT304",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
 		},
 		{
-			"title": "quantitative skills practice II",
-			"venue": "TT303",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Microprocessor and microcontrollers Lab",
-			"venue": "TT729",
-			"timings": [
-				15,
-				51,
-				17,
-				30
-			]
-		}
-	],
-	[
-		{
-			"title": "Probability and statistics",
-			"venue": "TT303",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Microprocessor and microcontrollers",
-			"venue": "TT531A",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Analog Circuits Theory",
-			"venue": "TT530",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Random processes",
+			"title": "BECE305",
 			"venue": "TT301",
 			"timings": [
-				11,
+				14,
 				0,
-				11,
+				14,
 				50
 			]
 		},
 		{
-			"title": "Probability and statistics Lab",
-			"venue": "TT238",
-			"timings": [
-				15,
-				51,
-				17,
-				30
-			]
-		},
-		{
-			"title": "Digital signal processing theory Lab",
-			"venue": "TT231",
-			"timings": [
-				17,
-				40,
-				19,
-				20
-			]
-		}
-	],
-	[
-		{
-			"title": "Random processes",
+			"title": "BECE306",
 			"venue": "TT301",
 			"timings": [
-				8,
+				15,
 				0,
-				8,
+				15,
 				50
 			]
 		},
 		{
-			"title": "Digital signal processing theory",
-			"venue": "TT304",
+			"title": "Advanced Competitive Coding - I",
+			"venue": "GDN128",
 			"timings": [
-				9,
+				17,
 				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "quantitative skills practice II",
-			"venue": "TT303",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics",
-			"venue": "TT303",
-			"timings": [
-				12,
-				0,
-				12,
+				17,
 				50
 			]
 		}
