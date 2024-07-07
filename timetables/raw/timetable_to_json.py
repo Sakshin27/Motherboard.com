@@ -87,7 +87,7 @@ COURSE_TITLES = {
     "BCSE302": "Database Systems",
     "BCSE303": "Operating Systems",
     "BCSE306": "Artificial Intelligence",
-    "BCSE308": "Computer Networks",
+    "BCSE308": "Computer Networks",
     "BCSE355": "AAWS Solutions Architect",    
     "BAG1002": "Micro propagation Technologies",    
     "BAG2003": "Manures, Fertilizers and Soil Fertility Management",    
