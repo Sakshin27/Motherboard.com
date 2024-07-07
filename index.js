@@ -4,9 +4,7 @@ const nameList = [
   "sakshin",
   "bhavalesh",
   "divya",
-  "suria",
   "chandrahaas",
-  "shreyan"
 ];
 
 // Dropdown icon rotation
