@@ -3,6 +3,7 @@ const nameList = [
   "saketh",
   "sakshin",
   "bhavalesh",
+  "divya",
   "suria",
   "chandrahaas",
   "shreyan"

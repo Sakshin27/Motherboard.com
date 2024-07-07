@@ -1,251 +1,221 @@
 [
 	[
 		{
-			"title": "Design and analysis algorithms",
-			"venue": "SJT305",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Microprocessor and microcontrollers",
-			"venue": "PRP308",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Computer architecture and organisation",
-			"venue": "SJT311",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "theory of computation",
-			"venue": "SJT302",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics",
-			"venue": "SJT301",
-			"timings": [
-				12,
-				0,
-				12,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics Lab",
+			"title": "BCSE303 Lab",
 			"venue": "SJT319",
 			"timings": [
-				14,
+				8,
 				0,
-				15,
+				9,
 				40
 			]
 		},
 		{
-			"title": "Web programming Lab",
-			"venue": "SJT316",
+			"title": "BCSE308 Lab",
+			"venue": "SJT419",
 			"timings": [
-				15,
-				51,
-				17,
-				30
-			]
-		}
-	],
-	[
-		{
-			"title": "theory of computation",
-			"venue": "SJT302",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics",
-			"venue": "SJT301",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "quantitative skills practice II",
-			"venue": "PRP414",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Web programming",
-			"venue": "PRP323",
-			"timings": [
-				12,
-				0,
-				12,
-				50
-			]
-		},
-		{
-			"title": "Microprocessor and microcontrollers Lab",
-			"venue": "SJT515",
-			"timings": [
-				17,
+				11,
 				40,
-				19,
+				13,
 				20
 			]
-		}
-	],
-	[
-		{
-			"title": "Design and analysis algorithms",
-			"venue": "SJT305",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
 		},
 		{
-			"title": "Microprocessor and microcontrollers",
-			"venue": "PRP308",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		}
-	],
-	[
-		{
-			"title": "Computer architecture and organisation",
-			"venue": "SJT311",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "theory of computation",
-			"venue": "SJT302",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics",
-			"venue": "SJT301",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "quantitative skills practice II",
-			"venue": "PRP414",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Design and analysis algorithms Lab",
-			"venue": "SJT418",
-			"timings": [
-				15,
-				51,
-				17,
-				30
-			]
-		}
-	],
-	[
-		{
-			"title": "quantitative skills practice II",
-			"venue": "PRP414",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Design and analysis algorithms",
-			"venue": "SJT305",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Microprocessor and microcontrollers",
-			"venue": "PRP308",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Computer architecture and organisation",
-			"venue": "SJT311",
-			"timings": [
-				12,
-				0,
-				12,
-				50
-			]
-		},
-		{
-			"title": "Web programming Lab",
-			"venue": "SJT316",
+			"title": "BCSE302",
+			"venue": "SJT521",
 			"timings": [
 				14,
 				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BCSE355",
+			"venue": "SJT627",
+			"timings": [
 				15,
-				40
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "BCSE308",
+			"venue": "SJT603",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BCSE303",
+			"venue": "SJT709",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "SJT505",
+			"timings": [
+				18,
+				0,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BCSE303",
+			"venue": "SJT709",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "SJT505",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "BCSE306",
+			"venue": "PRP670",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BCSE302",
+			"venue": "SJT521",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "BCSE355",
+			"venue": "SJT627",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BCSE308",
+			"venue": "SJT603",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BCSE308",
+			"venue": "SJT603",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BCSE303",
+			"venue": "SJT709",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "SJT505",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BCSE306",
+			"venue": "PRP670",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "BCSE302 Lab",
+			"venue": "SJT419",
+			"timings": [
+				11,
+				40,
+				13,
+				20
+			]
+		},
+		{
+			"title": "BCSE306",
+			"venue": "PRP670",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "BCSE302",
+			"venue": "SJT521",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "BCSE355",
+			"venue": "SJT627",
+			"timings": [
+				17,
+				0,
+				17,
+				50
 			]
 		}
 	],

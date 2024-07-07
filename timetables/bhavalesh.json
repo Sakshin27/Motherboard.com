@@ -1,17 +1,7 @@
 [
 	[
 		{
-			"title": "BMT102",
-			"venue": "MGB101",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "BMT300",
+			"title": "CCA170",
 			"venue": "MGB 401",
 			"timings": [
 				10,
@@ -21,18 +11,8 @@
 			]
 		},
 		{
-			"title": "BMT200",
-			"venue": "MGB304",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "STS201",
-			"venue": "PRP223",
+			"title": "STS300",
+			"venue": "SJT112",
 			"timings": [
 				12,
 				0,
@@ -41,30 +21,20 @@
 			]
 		},
 		{
-			"title": "BMT201",
-			"venue": "MGB101",
+			"title": "BMT301",
+			"venue": "MGB105",
 			"timings": [
-				14,
+				15,
 				0,
-				14,
+				15,
 				50
 			]
 		}
 	],
 	[
 		{
-			"title": "BMT200",
-			"venue": "MGB304",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "STS201",
-			"venue": "PRP223",
+			"title": "STS300",
+			"venue": "SJT112",
 			"timings": [
 				9,
 				0,
@@ -74,7 +44,7 @@
 		},
 		{
 			"title": "BMT101",
-			"venue": "MGB101",
+			"venue": "MGB304",
 			"timings": [
 				10,
 				0,
@@ -83,17 +53,17 @@
 			]
 		},
 		{
-			"title": "ENG191",
-			"venue": "MGB101",
+			"title": "BMT201",
+			"venue": "MGB105",
 			"timings": [
-				11,
+				14,
 				0,
-				11,
+				14,
 				50
 			]
 		},
 		{
-			"title": "BMT200",
+			"title": "BMT101",
 			"venue": "MGB 401",
 			"timings": [
 				16,
@@ -115,22 +85,12 @@
 	],
 	[
 		{
-			"title": "HUM103",
-			"venue": "SJT502",
+			"title": "BMT101",
+			"venue": "MGB105",
 			"timings": [
 				8,
 				0,
 				8,
-				50
-			]
-		},
-		{
-			"title": "BMT102",
-			"venue": "MGB101",
-			"timings": [
-				10,
-				0,
-				10,
 				50
 			]
 		},
@@ -145,19 +105,19 @@
 			]
 		},
 		{
-			"title": "BMT201",
-			"venue": "MGB101",
+			"title": "BMT301",
+			"venue": "MGB105",
 			"timings": [
-				15,
+				16,
 				0,
-				15,
+				16,
 				50
 			]
 		}
 	],
 	[
 		{
-			"title": "BMT300",
+			"title": "CCA170",
 			"venue": "MGB 401",
 			"timings": [
 				8,
@@ -167,50 +127,40 @@
 			]
 		},
 		{
-			"title": "BMT200",
-			"venue": "MGB304",
+			"title": "STS300",
+			"venue": "SJT112",
 			"timings": [
-				9,
+				10,
 				0,
-				9,
+				10,
 				50
 			]
 		},
 		{
-			"title": "STS201",
-			"venue": "PRP223",
+			"title": "BMT201",
+			"venue": "MGB105",
 			"timings": [
-				10,
+				15,
 				0,
-				10,
+				15,
 				50
 			]
 		},
 		{
 			"title": "BMT101",
-			"venue": "MGB101",
+			"venue": "MGB 401",
 			"timings": [
-				11,
+				17,
 				0,
-				11,
+				17,
 				50
-			]
-		},
-		{
-			"title": "ENG191 Lab",
-			"venue": "SJT721",
-			"timings": [
-				14,
-				0,
-				15,
-				40
 			]
 		}
 	],
 	[
 		{
 			"title": "BMT101",
-			"venue": "MGB101",
+			"venue": "MGB304",
 			"timings": [
 				8,
 				0,
@@ -219,8 +169,8 @@
 			]
 		},
 		{
-			"title": "HUM103",
-			"venue": "SJT502",
+			"title": "BMT101",
+			"venue": "MGB105",
 			"timings": [
 				9,
 				0,
@@ -229,7 +179,7 @@
 			]
 		},
 		{
-			"title": "BMT200",
+			"title": "BMT101",
 			"venue": "MGB 401",
 			"timings": [
 				14,
@@ -249,12 +199,12 @@
 			]
 		},
 		{
-			"title": "BMT201",
-			"venue": "MGB101",
+			"title": "BMT301",
+			"venue": "MGB105",
 			"timings": [
-				16,
+				17,
 				0,
-				16,
+				17,
 				50
 			]
 		}

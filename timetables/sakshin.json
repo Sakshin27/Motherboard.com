@@ -1,241 +1,261 @@
 [
 	[
 		{
-			"title": "quantitative skills practice II",
-			"venue": "MB211",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics",
-			"venue": "MB211",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Kinematics and Dynamics of Machines",
-			"venue": "MB227",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Metal Casting and Welding",
-			"venue": "MB219",
-			"timings": [
-				12,
-				0,
-				12,
-				50
-			]
-		}
-	],
-	[
-		{
-			"title": "Kinematics and Dynamics of Machines",
-			"venue": "MB227",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Metal Casting and Welding",
-			"venue": "MB219",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Fluid Mechanics and Machine",
-			"venue": "MB218",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Engineering Optimization",
-			"venue": "MB225",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		}
-	],
-	[
-		{
-			"title": "Engineering Optimization",
-			"venue": "MB225",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "quantitative skills practice II",
-			"venue": "MB211",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Probability and statistics Lab",
-			"venue": "MB109",
+			"title": "Design of Machine Elements",
+			"venue": "MB214",
 			"timings": [
 				14,
 				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "MB211",
+			"timings": [
 				15,
-				40
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "Metal Forming and Machining",
+			"venue": "MB211",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "Thermal Engineering Systems",
+			"venue": "MB212",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		},
+		{
+			"title": "Cloud Computing using Salesforce",
+			"venue": "MB213",
+			"timings": [
+				18,
+				0,
+				18,
+				50
 			]
 		}
 	],
 	[
 		{
-			"title": "Probability and statistics",
-			"venue": "MB211",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Kinematics and Dynamics of Machines",
-			"venue": "MB227",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "Metal Casting and Welding",
-			"venue": "MB219",
-			"timings": [
-				10,
-				0,
-				10,
-				50
-			]
-		},
-		{
-			"title": "Fluid Mechanics and Machine",
-			"venue": "MB218",
-			"timings": [
-				11,
-				0,
-				11,
-				50
-			]
-		},
-		{
-			"title": "Engineering Optimization",
-			"venue": "MB225",
-			"timings": [
-				12,
-				0,
-				12,
-				50
-			]
-		},
-		{
-			"title": "Kinematics and Dynamics of Machines Lab",
-			"venue": "ALM 407A",
+			"title": "Thermal Engineering Systems",
+			"venue": "MB212",
 			"timings": [
 				14,
 				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "Cloud Computing using Salesforce",
+			"venue": "MB213",
+			"timings": [
 				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "Mechatronics and Measurement Systems",
+			"venue": "MB213",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "Design of Machine Elements",
+			"venue": "MB214",
+			"timings": [
+				18,
+				0,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Metal Forming and Machining Lab",
+			"venue": "GDNG16",
+			"timings": [
+				8,
+				0,
+				9,
 				40
 			]
 		},
 		{
-			"title": "Fluid Mechanics and Machine Lab",
-			"venue": "GDN131",
+			"title": "Vehicle Dynamics",
+			"venue": "MB218",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "Design of Machine Elements",
+			"venue": "MB214",
 			"timings": [
 				15,
-				51,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "MB211",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "Metal Forming and Machining",
+			"venue": "MB211",
+			"timings": [
 				17,
-				30
+				0,
+				17,
+				50
 			]
 		}
 	],
 	[
 		{
-			"title": "Fluid Mechanics and Machine",
-			"venue": "MB218",
-			"timings": [
-				8,
-				0,
-				8,
-				50
-			]
-		},
-		{
-			"title": "Engineering Optimization",
-			"venue": "MB225",
-			"timings": [
-				9,
-				0,
-				9,
-				50
-			]
-		},
-		{
-			"title": "quantitative skills practice II",
+			"title": "Metal Forming and Machining",
 			"venue": "MB211",
 			"timings": [
-				11,
+				14,
 				0,
-				11,
+				14,
 				50
 			]
 		},
 		{
-			"title": "Probability and statistics",
-			"venue": "MB211",
-			"timings": [
-				12,
-				0,
-				12,
-				50
-			]
-		},
-		{
-			"title": "Metal Casting and Welding Lab",
-			"venue": "GDNG26",
+			"title": "Thermal Engineering Systems",
+			"venue": "MB212",
 			"timings": [
 				15,
-				51,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "Cloud Computing using Salesforce",
+			"venue": "MB213",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "Mechatronics and Measurement Systems",
+			"venue": "MB213",
+			"timings": [
 				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Vehicle Dynamics Lab",
+			"venue": "ALM G10",
+			"timings": [
+				8,
+				0,
+				9,
+				40
+			]
+		},
+		{
+			"title": "Thermal Engineering Systems Lab",
+			"venue": "GDNG11",
+			"timings": [
+				9,
+				51,
+				11,
 				30
+			]
+		},
+		{
+			"title": "Mechatronics and Measurement Systems Lab",
+			"venue": "ALM 501B",
+			"timings": [
+				11,
+				40,
+				13,
+				20
+			]
+		},
+		{
+			"title": "Mechatronics and Measurement Systems",
+			"venue": "MB213",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "Vehicle Dynamics",
+			"venue": "MB218",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "Design of Machine Elements",
+			"venue": "MB214",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "Advanced Competitive Coding - I",
+			"venue": "MB211",
+			"timings": [
+				17,
+				0,
+				17,
+				50
 			]
 		}
 	],

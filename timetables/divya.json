@@ -1,0 +1,244 @@
+[
+	[
+		{
+			"title": "CCA370",
+			"venue": "MB227",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		},
+		{
+			"title": "CCA270",
+			"venue": "TT332",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "CCA271",
+			"venue": "TT332",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "CCA370",
+			"venue": "TT332",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "STS300",
+			"venue": "TT332",
+			"timings": [
+				18,
+				0,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "CCA370",
+			"venue": "MB227",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "CCA370",
+			"venue": "MB226",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "STS300",
+			"venue": "TT332",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "CCA270",
+			"venue": "TT332",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "CCA270",
+			"venue": "TT332",
+			"timings": [
+				18,
+				0,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "CCA370",
+			"venue": "MB226",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "CCA270",
+			"venue": "TT332",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		},
+		{
+			"title": "CCA271",
+			"venue": "TT332",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "CCA370",
+			"venue": "TT332",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "CCA370",
+			"venue": "MB227",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "CCA370",
+			"venue": "MB226",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		},
+		{
+			"title": "CCA370",
+			"venue": "TT332",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "STS300",
+			"venue": "TT332",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "CCA370",
+			"venue": "MB226",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "CCA270",
+			"venue": "TT332",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		},
+		{
+			"title": "CCA270",
+			"venue": "TT332",
+			"timings": [
+				16,
+				0,
+				16,
+				50
+			]
+		},
+		{
+			"title": "CCA271",
+			"venue": "TT332",
+			"timings": [
+				17,
+				0,
+				17,
+				50
+			]
+		},
+		{
+			"title": "CCA370",
+			"venue": "TT332",
+			"timings": [
+				18,
+				0,
+				18,
+				50
+			]
+		}
+	],
+	[],
+	[]
+]
