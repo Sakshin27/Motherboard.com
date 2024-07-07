@@ -1,7 +1,7 @@
 [
 	[
 		{
-			"title": "BCSE303 Lab",
+			"title": "Operating Systems Lab",
 			"venue": "SJT319",
 			"timings": [
 				8,
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"title": "BCSE308 Lab",
+			"title": "Computer\u00a0Networks Lab",
 			"venue": "SJT419",
 			"timings": [
 				11,
@@ -21,7 +21,7 @@
 			]
 		},
 		{
-			"title": "BCSE302",
+			"title": "Database Systems",
 			"venue": "SJT521",
 			"timings": [
 				14,
@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"title": "BCSE355",
+			"title": "AAWS Solutions Architect",
 			"venue": "SJT627",
 			"timings": [
 				15,
@@ -41,7 +41,7 @@
 			]
 		},
 		{
-			"title": "BCSE308",
+			"title": "Computer\u00a0Networks",
 			"venue": "SJT603",
 			"timings": [
 				16,
@@ -51,7 +51,7 @@
 			]
 		},
 		{
-			"title": "BCSE303",
+			"title": "Operating Systems",
 			"venue": "SJT709",
 			"timings": [
 				17,
@@ -73,7 +73,7 @@
 	],
 	[
 		{
-			"title": "BCSE303",
+			"title": "Operating Systems",
 			"venue": "SJT709",
 			"timings": [
 				14,
@@ -93,7 +93,7 @@
 			]
 		},
 		{
-			"title": "BCSE306",
+			"title": "Artificial Intelligence",
 			"venue": "PRP670",
 			"timings": [
 				16,
@@ -105,7 +105,7 @@
 	],
 	[
 		{
-			"title": "BCSE302",
+			"title": "Database Systems",
 			"venue": "SJT521",
 			"timings": [
 				15,
@@ -115,7 +115,7 @@
 			]
 		},
 		{
-			"title": "BCSE355",
+			"title": "AAWS Solutions Architect",
 			"venue": "SJT627",
 			"timings": [
 				16,
@@ -125,7 +125,7 @@
 			]
 		},
 		{
-			"title": "BCSE308",
+			"title": "Computer\u00a0Networks",
 			"venue": "SJT603",
 			"timings": [
 				17,
@@ -137,7 +137,7 @@
 	],
 	[
 		{
-			"title": "BCSE308",
+			"title": "Computer\u00a0Networks",
 			"venue": "SJT603",
 			"timings": [
 				14,
@@ -147,7 +147,7 @@
 			]
 		},
 		{
-			"title": "BCSE303",
+			"title": "Operating Systems",
 			"venue": "SJT709",
 			"timings": [
 				15,
@@ -167,7 +167,7 @@
 			]
 		},
 		{
-			"title": "BCSE306",
+			"title": "Artificial Intelligence",
 			"venue": "PRP670",
 			"timings": [
 				17,
@@ -179,7 +179,7 @@
 	],
 	[
 		{
-			"title": "BCSE302 Lab",
+			"title": "Database Systems Lab",
 			"venue": "SJT419",
 			"timings": [
 				11,
@@ -189,7 +189,7 @@
 			]
 		},
 		{
-			"title": "BCSE306",
+			"title": "Artificial Intelligence",
 			"venue": "PRP670",
 			"timings": [
 				14,
@@ -199,7 +199,7 @@
 			]
 		},
 		{
-			"title": "BCSE302",
+			"title": "Database Systems",
 			"venue": "SJT521",
 			"timings": [
 				16,
@@ -209,7 +209,7 @@
 			]
 		},
 		{
-			"title": "BCSE355",
+			"title": "AAWS Solutions Architect",
 			"venue": "SJT627",
 			"timings": [
 				17,
