@@ -1,7 +1,7 @@
 [
 	[
 		{
-			"title": "CCA170",
+			"title": "BCCA70",
 			"venue": "MGB 401",
 			"timings": [
 				10,
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"title": "STS300",
+			"title": "BSTS00",
 			"venue": "SJT112",
 			"timings": [
 				12,
@@ -33,7 +33,7 @@
 	],
 	[
 		{
-			"title": "STS300",
+			"title": "BSTS00",
 			"venue": "SJT112",
 			"timings": [
 				9,
@@ -43,7 +43,7 @@
 			]
 		},
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB304",
 			"timings": [
 				10,
@@ -53,7 +53,7 @@
 			]
 		},
 		{
-			"title": "BMT201",
+			"title": "BBMT01",
 			"venue": "MGB105",
 			"timings": [
 				14,
@@ -63,7 +63,7 @@
 			]
 		},
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB 401",
 			"timings": [
 				16,
@@ -73,7 +73,7 @@
 			]
 		},
 		{
-			"title": "BMT200",
+			"title": "BBMT00",
 			"venue": "MGB304",
 			"timings": [
 				17,
@@ -85,7 +85,7 @@
 	],
 	[
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB105",
 			"timings": [
 				8,
@@ -95,7 +95,7 @@
 			]
 		},
 		{
-			"title": "BMT200",
+			"title": "BBMT00",
 			"venue": "MGB304",
 			"timings": [
 				14,
@@ -105,7 +105,7 @@
 			]
 		},
 		{
-			"title": "BMT301",
+			"title": "BBMT01",
 			"venue": "MGB105",
 			"timings": [
 				16,
@@ -117,7 +117,7 @@
 	],
 	[
 		{
-			"title": "CCA170",
+			"title": "BCCA70",
 			"venue": "MGB 401",
 			"timings": [
 				8,
@@ -127,7 +127,7 @@
 			]
 		},
 		{
-			"title": "STS300",
+			"title": "BSTS00",
 			"venue": "SJT112",
 			"timings": [
 				10,
@@ -137,7 +137,7 @@
 			]
 		},
 		{
-			"title": "BMT201",
+			"title": "BBMT01",
 			"venue": "MGB105",
 			"timings": [
 				15,
@@ -147,7 +147,7 @@
 			]
 		},
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB 401",
 			"timings": [
 				17,
@@ -159,7 +159,7 @@
 	],
 	[
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB304",
 			"timings": [
 				8,
@@ -169,7 +169,7 @@
 			]
 		},
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB105",
 			"timings": [
 				9,
@@ -179,7 +179,7 @@
 			]
 		},
 		{
-			"title": "BMT101",
+			"title": "BBMT01",
 			"venue": "MGB 401",
 			"timings": [
 				14,
@@ -189,7 +189,7 @@
 			]
 		},
 		{
-			"title": "BMT200",
+			"title": "BBMT00",
 			"venue": "MGB304",
 			"timings": [
 				15,
@@ -199,7 +199,7 @@
 			]
 		},
 		{
-			"title": "BMT301",
+			"title": "BBMT01",
 			"venue": "MGB105",
 			"timings": [
 				17,
