@@ -1,0 +1,244 @@
+[
+	[
+		{
+			"title": "Micro propagation Technologies Lab",
+			"venue": "PRP614",
+			"timings": [
+				8,
+				0,
+				13,
+				0
+			]
+		},
+		{
+			"title": "Diseases of Field and Horticultural Crops and their Management -I  Lab",
+			"venue": "PRP612",
+			"timings": [
+				14,
+				0,
+				16,
+				30
+			]
+		},
+		{
+			"title": "Crop Improvement - I",
+			"venue": "PRP606",
+			"timings": [
+				16,
+				35,
+				17,
+				35
+			]
+		},
+		{
+			"title": "Principles of Integrated Pests and Disease Management",
+			"venue": "PRP606",
+			"timings": [
+				17,
+				50,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Practical Crop Production - 1 Lab",
+			"venue": "PRP515",
+			"timings": [
+				8,
+				0,
+				13,
+				0
+			]
+		},
+		{
+			"title": "Manures, Fertilizers and Soil Fertility Management Lab",
+			"venue": "PRP516",
+			"timings": [
+				14,
+				0,
+				16,
+				30
+			]
+		},
+		{
+			"title": "Micro propagation Technologies",
+			"venue": "PRP619",
+			"timings": [
+				16,
+				35,
+				17,
+				35
+			]
+		},
+		{
+			"title": "Agribusiness Management",
+			"venue": "PRP606",
+			"timings": [
+				17,
+				50,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Principles of Integrated Pests and Disease Management Lab",
+			"venue": "PRP613",
+			"timings": [
+				8,
+				0,
+				13,
+				0
+			]
+		},
+		{
+			"title": "Entrepreneurship Development, Business Communication and IPR",
+			"venue": "PRP606",
+			"timings": [
+				14,
+				0,
+				15,
+				0
+			]
+		},
+		{
+			"title": "Diseases of Field and Horticultural Crops and their Management -",
+			"venue": "PRP606",
+			"timings": [
+				15,
+				15,
+				16,
+				15
+			]
+		},
+		{
+			"title": "Principles of Integrated Pests and Disease Management",
+			"venue": "PRP606",
+			"timings": [
+				16,
+				35,
+				17,
+				35
+			]
+		},
+		{
+			"title": "Pests of Crops and Stored Grains and their Management",
+			"venue": "PRP606",
+			"timings": [
+				17,
+				50,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Manures, Fertilizers and Soil Fertility Management",
+			"venue": "PRP606",
+			"timings": [
+				9,
+				15,
+				10,
+				15
+			]
+		},
+		{
+			"title": "Pests of Crops and Stored Grains and their Management Lab",
+			"venue": "PRP613",
+			"timings": [
+				10,
+				31,
+				13,
+				0
+			]
+		},
+		{
+			"title": "Crop Improvement - I Lab",
+			"venue": "PRP610",
+			"timings": [
+				14,
+				0,
+				16,
+				30
+			]
+		},
+		{
+			"title": "Pests of Crops and Stored Grains and their Management",
+			"venue": "PRP606",
+			"timings": [
+				16,
+				35,
+				17,
+				35
+			]
+		},
+		{
+			"title": "Diseases of Field and Horticultural Crops and their Management -I",
+			"venue": "PRP606",
+			"timings": [
+				17,
+				50,
+				18,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Agribusiness Management Lab",
+			"venue": "PRP620",
+			"timings": [
+				8,
+				0,
+				10,
+				30
+			]
+		},
+		{
+			"title": "Geoinformatics, Nanotechnology and Precision Farming",
+			"venue": "PRP606",
+			"timings": [
+				10,
+				35,
+				11,
+				35
+			]
+		},
+		{
+			"title": "Manures, Fertilizers and Soil Fertility Management",
+			"venue": "PRP606",
+			"timings": [
+				11,
+				50,
+				12,
+				50
+			]
+		},
+		{
+			"title": "Entrepreneurship Development, Business Communication and IPR Lab",
+			"venue": "PRP620",
+			"timings": [
+				14,
+				0,
+				16,
+				30
+			]
+		},
+		{
+			"title": "Agribusiness Management",
+			"venue": "PRP606",
+			"timings": [
+				16,
+				35,
+				17,
+				35
+			]
+		}
+	],
+	[],
+	[]
+]

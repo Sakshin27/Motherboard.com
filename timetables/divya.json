@@ -1,7 +1,7 @@
 [
 	[
 		{
-			"title": "Advanced Financial Management",
+			"title": "CCA370",
 			"venue": "MB227",
 			"timings": [
 				12,
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"title": "Cost Accounting",
+			"title": "CCA270",
 			"venue": "TT332",
 			"timings": [
 				14,
@@ -21,7 +21,7 @@
 			]
 		},
 		{
-			"title": "Service Marketing",
+			"title": "CCA271",
 			"venue": "TT332",
 			"timings": [
 				15,
@@ -31,7 +31,7 @@
 			]
 		},
 		{
-			"title": "Income Tax Law and Practice",
+			"title": "CCA370",
 			"venue": "TT332",
 			"timings": [
 				16,
@@ -41,7 +41,7 @@
 			]
 		},
 		{
-			"title": "Preparedness for Recruitment",
+			"title": "STS300",
 			"venue": "TT332",
 			"timings": [
 				18,
@@ -53,7 +53,7 @@
 	],
 	[
 		{
-			"title": "Advanced Financial Management",
+			"title": "CCA370",
 			"venue": "MB227",
 			"timings": [
 				9,
@@ -63,7 +63,7 @@
 			]
 		},
 		{
-			"title": "Advanced Performance Management",
+			"title": "CCA370",
 			"venue": "MB226",
 			"timings": [
 				11,
@@ -73,7 +73,7 @@
 			]
 		},
 		{
-			"title": "Preparedness for Recruitment",
+			"title": "STS300",
 			"venue": "TT332",
 			"timings": [
 				15,
@@ -83,7 +83,7 @@
 			]
 		},
 		{
-			"title": "Banking Theory and Practice",
+			"title": "CCA270",
 			"venue": "TT332",
 			"timings": [
 				16,
@@ -93,7 +93,7 @@
 			]
 		},
 		{
-			"title": "Cost Accounting",
+			"title": "CCA270",
 			"venue": "TT332",
 			"timings": [
 				18,
@@ -105,7 +105,7 @@
 	],
 	[
 		{
-			"title": "Advanced Performance Management",
+			"title": "CCA370",
 			"venue": "MB226",
 			"timings": [
 				8,
@@ -115,7 +115,7 @@
 			]
 		},
 		{
-			"title": "Cost Accounting",
+			"title": "CCA270",
 			"venue": "TT332",
 			"timings": [
 				15,
@@ -125,7 +125,7 @@
 			]
 		},
 		{
-			"title": "Service Marketing",
+			"title": "CCA271",
 			"venue": "TT332",
 			"timings": [
 				16,
@@ -135,7 +135,7 @@
 			]
 		},
 		{
-			"title": "Income Tax Law and Practice",
+			"title": "CCA370",
 			"venue": "TT332",
 			"timings": [
 				17,
@@ -147,7 +147,7 @@
 	],
 	[
 		{
-			"title": "Advanced Financial Management",
+			"title": "CCA370",
 			"venue": "MB227",
 			"timings": [
 				10,
@@ -157,7 +157,7 @@
 			]
 		},
 		{
-			"title": "Advanced Performance Management",
+			"title": "CCA370",
 			"venue": "MB226",
 			"timings": [
 				12,
@@ -167,7 +167,7 @@
 			]
 		},
 		{
-			"title": "Income Tax Law and Practice",
+			"title": "CCA370",
 			"venue": "TT332",
 			"timings": [
 				14,
@@ -177,7 +177,7 @@
 			]
 		},
 		{
-			"title": "Preparedness for Recruitment",
+			"title": "STS300",
 			"venue": "TT332",
 			"timings": [
 				16,
@@ -189,7 +189,7 @@
 	],
 	[
 		{
-			"title": "Advanced Performance Management",
+			"title": "CCA370",
 			"venue": "MB226",
 			"timings": [
 				9,
@@ -199,7 +199,7 @@
 			]
 		},
 		{
-			"title": "Banking Theory and Practice",
+			"title": "CCA270",
 			"venue": "TT332",
 			"timings": [
 				14,
@@ -209,7 +209,7 @@
 			]
 		},
 		{
-			"title": "Cost Accounting",
+			"title": "CCA270",
 			"venue": "TT332",
 			"timings": [
 				16,
@@ -219,7 +219,7 @@
 			]
 		},
 		{
-			"title": "Service Marketing",
+			"title": "CCA271",
 			"venue": "TT332",
 			"timings": [
 				17,
@@ -229,7 +229,7 @@
 			]
 		},
 		{
-			"title": "Income Tax Law and Practice",
+			"title": "CCA370",
 			"venue": "TT332",
 			"timings": [
 				18,

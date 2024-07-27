@@ -1,7 +1,7 @@
 [
 	[
 		{
-			"title": "Export Marketing",
+			"title": "CCA170",
 			"venue": "MGB 401",
 			"timings": [
 				10,
@@ -11,7 +11,7 @@
 			]
 		},
 		{
-			"title": "Preparedness for Recruitment",
+			"title": "STS300",
 			"venue": "SJT112",
 			"timings": [
 				12,
@@ -21,7 +21,7 @@
 			]
 		},
 		{
-			"title": "Fintech",
+			"title": "BMT301",
 			"venue": "MGB105",
 			"timings": [
 				15,
@@ -33,7 +33,7 @@
 	],
 	[
 		{
-			"title": "Preparedness for Recruitment",
+			"title": "STS300",
 			"venue": "SJT112",
 			"timings": [
 				9,
@@ -43,7 +43,7 @@
 			]
 		},
 		{
-			"title": "Managing Personal Finance",
+			"title": "BMT101",
 			"venue": "MGB304",
 			"timings": [
 				10,
@@ -53,7 +53,7 @@
 			]
 		},
 		{
-			"title": "Training and Development",
+			"title": "BMT201",
 			"venue": "MGB105",
 			"timings": [
 				14,
@@ -63,7 +63,7 @@
 			]
 		},
 		{
-			"title": "Banking and Insurance",
+			"title": "BMT101",
 			"venue": "MGB 401",
 			"timings": [
 				16,
@@ -73,7 +73,7 @@
 			]
 		},
 		{
-			"title": "Advertising Management",
+			"title": "BMT200",
 			"venue": "MGB304",
 			"timings": [
 				17,
@@ -85,7 +85,7 @@
 	],
 	[
 		{
-			"title": "Stress Management",
+			"title": "BMT101",
 			"venue": "MGB105",
 			"timings": [
 				8,
@@ -95,7 +95,7 @@
 			]
 		},
 		{
-			"title": "Advertising Management",
+			"title": "BMT200",
 			"venue": "MGB304",
 			"timings": [
 				14,
@@ -105,7 +105,7 @@
 			]
 		},
 		{
-			"title": "Fintech",
+			"title": "BMT301",
 			"venue": "MGB105",
 			"timings": [
 				16,
@@ -117,7 +117,7 @@
 	],
 	[
 		{
-			"title": "Export Marketing",
+			"title": "CCA170",
 			"venue": "MGB 401",
 			"timings": [
 				8,
@@ -127,7 +127,7 @@
 			]
 		},
 		{
-			"title": "Preparedness for Recruitment",
+			"title": "STS300",
 			"venue": "SJT112",
 			"timings": [
 				10,
@@ -137,7 +137,7 @@
 			]
 		},
 		{
-			"title": "Training and Development",
+			"title": "BMT201",
 			"venue": "MGB105",
 			"timings": [
 				15,
@@ -147,7 +147,7 @@
 			]
 		},
 		{
-			"title": "Banking and Insurance",
+			"title": "BMT101",
 			"venue": "MGB 401",
 			"timings": [
 				17,
@@ -159,7 +159,7 @@
 	],
 	[
 		{
-			"title": "Managing Personal Finance",
+			"title": "BMT101",
 			"venue": "MGB304",
 			"timings": [
 				8,
@@ -169,7 +169,7 @@
 			]
 		},
 		{
-			"title": "Stress Management",
+			"title": "BMT101",
 			"venue": "MGB105",
 			"timings": [
 				9,
@@ -179,7 +179,7 @@
 			]
 		},
 		{
-			"title": "Banking and Insurance",
+			"title": "BMT101",
 			"venue": "MGB 401",
 			"timings": [
 				14,
@@ -189,7 +189,7 @@
 			]
 		},
 		{
-			"title": "Advertising Management",
+			"title": "BMT200",
 			"venue": "MGB304",
 			"timings": [
 				15,
@@ -199,7 +199,7 @@
 			]
 		},
 		{
-			"title": "Fintech",
+			"title": "BMT301",
 			"venue": "MGB105",
 			"timings": [
 				17,
