@@ -1,0 +1,264 @@
+[
+	[
+		{
+			"title": "Digital Marketing For Finance Institutions",
+			"venue": "TT305",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Banking Theory and Practice",
+			"venue": "TT305",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Financial Management",
+			"venue": "TT305",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Corporate Law",
+			"venue": "TT305",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Stock Market Observations",
+			"venue": "TT333",
+			"timings": [
+				14,
+				0,
+				14,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Corporate Law",
+			"venue": "TT305",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Data Analysis with Python",
+			"venue": "TT305",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Fintech Intelligence",
+			"venue": "TT305",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Corporate Accounting",
+			"venue": "TT305",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Stock Market Observations Lab",
+			"venue": "TT318",
+			"timings": [
+				14,
+				0,
+				15,
+				40
+			]
+		}
+	],
+	[
+		{
+			"title": "Corporate Accounting",
+			"venue": "TT305",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Digital Marketing For Finance Institutions",
+			"venue": "TT305",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Banking Theory and Practice",
+			"venue": "TT305",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Stock Market Observations",
+			"venue": "TT333",
+			"timings": [
+				15,
+				0,
+				15,
+				50
+			]
+		}
+	],
+	[
+		{
+			"title": "Financial Management",
+			"venue": "TT305",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Corporate Law",
+			"venue": "TT305",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Data Analysis with Python",
+			"venue": "TT305",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Fintech Intelligence",
+			"venue": "TT305",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Corporate Accounting",
+			"venue": "TT305",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		},
+		{
+			"title": "Data Analysis with Python Lab",
+			"venue": "TT318",
+			"timings": [
+				14,
+				0,
+				15,
+				40
+			]
+		}
+	],
+	[
+		{
+			"title": "Fintech Intelligence",
+			"venue": "TT305",
+			"timings": [
+				8,
+				0,
+				8,
+				50
+			]
+		},
+		{
+			"title": "Corporate Accounting",
+			"venue": "TT305",
+			"timings": [
+				9,
+				0,
+				9,
+				50
+			]
+		},
+		{
+			"title": "Digital Marketing For Finance Institutions",
+			"venue": "TT305",
+			"timings": [
+				10,
+				0,
+				10,
+				50
+			]
+		},
+		{
+			"title": "Banking Theory and Practice",
+			"venue": "TT305",
+			"timings": [
+				11,
+				0,
+				11,
+				50
+			]
+		},
+		{
+			"title": "Financial Management",
+			"venue": "TT305",
+			"timings": [
+				12,
+				0,
+				12,
+				50
+			]
+		}
+	],
+	[],
+	[]
+]

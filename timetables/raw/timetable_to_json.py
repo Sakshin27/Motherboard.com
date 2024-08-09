@@ -97,7 +97,14 @@ COURSE_TITLES = {
     "BAG3001": "Principles of Integrated Pests and Disease Management",    
     "BAG3004": "Geoinformatics, Nanotechnology and Precision Farming",    
     "BAG4001": "Agribusiness Management",    
-    "MGT1053": "Entrepreneurship Development, Business Communication and IPR",    
+    "MGT1053": "Entrepreneurship Development, Business Communication and IPR",
+    "UCCA202L": "Corporate Law",  
+    "UCCA203L": "Financial Management",
+    "UCCA209L": "Banking Theory and Practice",
+    "UCCA231L": "Digital Marketing for Financial Services",
+    "UCCA236L": "Fintech Intelligence",
+    "UCCA316E": "Stock Market Operations",
+    "UCSC326E": "Data Analysis with Python",
 }
 
 
